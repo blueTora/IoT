@@ -51,22 +51,22 @@ Here are the IoT projects included in this repository: (the projects are sorted 
 ### 6. Parking Door
 ![Parking Door](http://img.youtube.com/vi/M10u3PUXmAw/0.jpg)
 - YouTube Video: [Watch Tutorial](https://www.youtube.com/watch?v=M10u3PUXmAw)
-- Description: The Parking Door project aims to enhance parking lot security. It utilizes sensors to detect approaching vehicles and automatically opens and closes the parking gate, providing a seamless entry and exit experience.
+- Description: The Parking Door project aims to enhance parking lot security. It utilizes sensors to detect approaching vehicles and automatically opens and closes the parking gate, providing a seamless entry and exit experience using Zigbee boards.
 
-### 7. Alarm
+### 7. Clock Alarm
 ![Alarm](http://img.youtube.com/vi/SgkFVj_YDd8/0.jpg)
 - YouTube Video: [Watch Tutorial](https://www.youtube.com/watch?v=SgkFVj_YDd8)
-- Description: The Alarm project demonstrates a simple but effective home security solution. When motion is detected, the Arduino board triggers an alarm, alerting homeowners to potential intrusions.
+- Description: The Alarm project demonstrates a clock alarm using the Zigbee boards.
 
 ### 8. Smart Home
 ![Smart Home](http://img.youtube.com/vi/ERSVaBk97kA/0.jpg)
 - YouTube Video: [Watch Tutorial](https://www.youtube.com/watch?v=ERSVaBk97kA)
-- Description: The Smart Home project showcases home automation capabilities. The Arduino board connects to various household devices, enabling users to control lighting, temperature, and other appliances remotely through a mobile application.
+- Description: The Smart Home project showcases home automation capabilities. The Arduino board connects to various household devices, enabling users to control lighting, temperature, and other appliances remotely through the [Blynk](https://blynk.io) platform on their devices (mobile, computer, and etc).
 
 ### 9. Security System
 ![Security System](http://img.youtube.com/vi/WcsyY_8RuDo/0.jpg)
 - YouTube Video: [Watch Tutorial](https://www.youtube.com/watch?v=WcsyY_8RuDo)
-- Description: The Security System project utilizes an Arduino board, sensors, and a camera module to build a comprehensive security solution. The system can detect motion, capture images or videos, and send notifications to a designated device when any suspicious activity occurs.
+- Description: The Security System project utilizes an Arduino board, sensors, and a camera module to build a comprehensive security solution. The system can detect motion, capture images or videos, and send notifications to the owners device when any suspicious activity occurs using [Blynk](https://blynk.io) platform.
 
 ---
 
