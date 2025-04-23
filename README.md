@@ -7,18 +7,18 @@ The projects are sorted from the easiest to the most difficult to implement.
 
 ## Table of Contents
 
-- [Smart Parking](#1--smart-parking)
-- [Smart Bin](#2--smart-bin)
-- [Smart Clock](#3--smart-clock)
-- [Screen Light](#4--screen-light)
-- [Attendance System](#5--attendance-system)
-- [Smart Greenhouse](#6--smart-greenhouse)
-- [Parking Door](#7--parking-door)
-- [Alarm](#8--alarm-system)
-- [Air Pollution Monitoring System](#9--air-pollution-monitoring-system)
-- [Remote Automate Parking](#10--remote-automate-parking)
-- [Smart Home](#11--smart-home)
-- [Security System](#12--security-system)
+- [Smart Parking](#1-smart-parking)
+- [Smart Bin](#2-smart-bin)
+- [Smart Clock](#3-smart-clock)
+- [Screen Light](#4-screen-light)
+- [Attendance System](#5-attendance-system)
+- [Smart Greenhouse](#6-smart-greenhouse)
+- [Parking Door](#7-parking-door)
+- [Alarm](#8-alarm-system)
+- [Air Pollution Monitoring System](#9-air-pollution-monitoring-system)
+- [Remote Automate Parking](#10-remote-automate-parking)
+- [Smart Home](#11-smart-home)
+- [Security System](#12-security-system)
 
 ## Introduction
 
